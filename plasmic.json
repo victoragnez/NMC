@@ -1,0 +1,818 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+      "projectApiToken": "ulWgsxpQkmzUox5cghA4AZCpgeU3C1HF0Lu0VI0sqOMmk3DuRSJMq49X49mZ0XWq3zouvmycynge2mslBomg",
+      "projectName": "WANGA",
+      "version": "latest",
+      "cssFilePath": "plasmic/wanga/plasmic_wanga.module.css",
+      "components": [
+        {
+          "id": "7sARU3bTtw",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498144.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "Qlzg8LOrY1",
+          "name": "NewPage4",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage4.tsx",
+          "importSpec": {
+            "modulePath": "../pages/497936.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage4.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "xREbm6WKb9",
+          "name": "NewPage5",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage5.tsx",
+          "importSpec": {
+            "modulePath": "../pages/497937.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage5.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "3dru1W4ZMH",
+          "name": "NewPage",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498133.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "F-aAxuh8k_",
+          "name": "NewPage2",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage2.tsx",
+          "importSpec": {
+            "modulePath": "../pages/497922.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "1kr4Mpr3_m",
+          "name": "NewPage3",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage3.tsx",
+          "importSpec": {
+            "modulePath": "../pages/497931.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage3.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "NjDvTSK-pU",
+          "name": "NewPage6",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage6.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498132.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage6.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "Gdk8pygQbL",
+          "name": "NewPage7",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage7.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498123.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage7.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "L0yOn91KBg",
+          "name": "NewPage8",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage8.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498124.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage8.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "8KkSE_wLj8",
+          "name": "NewPage10",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage10.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498136.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage10.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "L0OHvr7KIJ",
+          "name": "NewPage11",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage11.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498137.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage11.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "lyiMbiA3gN",
+          "name": "NewPage12",
+          "type": "managed",
+          "projectId": "pGUwLaFPdGtokmdZ3W7Ccj",
+          "renderModuleFilePath": "plasmic/wanga/PlasmicNewPage12.tsx",
+          "importSpec": {
+            "modulePath": "../pages/498722.tsx"
+          },
+          "cssFilePath": "plasmic/wanga/PlasmicNewPage12.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [],
+      "images": [
+        {
+          "id": "Sxg3dBy4O",
+          "name": "Ms. Wanga Bola Milka -page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msWangaBolaMilkaPage001Jpg.jpeg"
+        },
+        {
+          "id": "EDcoZKwfi",
+          "name": "Ms Dikson Jennifer Ebubechi (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msDiksonJenniferEbubechi1Page001Jpg.jpeg"
+        },
+        {
+          "id": "bX4MreM5j",
+          "name": "Ms Dikson Jennifer Ebubechi-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msDiksonJenniferEbubechiPage001Jpg.jpeg"
+        },
+        {
+          "id": "m20Tmid82",
+          "name": "Ms Dikson Jennifer Ebubechi-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/msDiksonJenniferEbubechiPage001Jpg2.jpeg"
+        },
+        {
+          "id": "WE-_0I56n",
+          "name": "Ms Bombamba Vanessa Bola-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msBombambaVanessaBolaPage001Jpg.jpeg"
+        },
+        {
+          "id": "zVR6dmKMq",
+          "name": "Mr Cantillon Eric Joseph Mary-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrCantillonEricJosephMaryPage001Jpg.jpeg"
+        },
+        {
+          "id": "elkrhnN5r",
+          "name": "Ms Cantillon Geb. Ruppert Anja Marion-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msCantillonGebRuppertAnjaMarionPage001Jpg.jpeg"
+        },
+        {
+          "id": "r-Qkq0NwV",
+          "name": "Mr Cantillon Eric Joseph Mary-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/mrCantillonEricJosephMaryPage001Jpg2.jpeg"
+        },
+        {
+          "id": "YDONyeiQ1",
+          "name": "Ms Kanyereza Vimbayi Vivian-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msKanyerezaVimbayiVivianPage001Jpg.jpeg"
+        },
+        {
+          "id": "efQGs8zu9",
+          "name": "Ms Kanyereza Vimbayi Vivian-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/msKanyerezaVimbayiVivianPage001Jpg2.jpeg"
+        },
+        {
+          "id": "gHfclbQuX",
+          "name": "Mr Zinarei Nunurai Jeffrey-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrZinareiNunuraiJeffreyPage001Jpg.jpeg"
+        },
+        {
+          "id": "JZJQIg46B",
+          "name": "Mr Zinarei Nunurai Jeffrey-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/mrZinareiNunuraiJeffreyPage001Jpg2.jpeg"
+        },
+        {
+          "id": "EWpStHaJj",
+          "name": "Mr Hirvela Emery Miller-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrHirvelaEmeryMillerPage001Jpg.jpeg"
+        },
+        {
+          "id": "SzpnVfEhw",
+          "name": "Mr Hirvela Emery Miller-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/mrHirvelaEmeryMillerPage001Jpg2.jpeg"
+        },
+        {
+          "id": "wmCPb3hO3",
+          "name": "Ms Kolakkadan kandy-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msKolakkadanKandyPage001Jpg.jpeg"
+        },
+        {
+          "id": "AFk7mjDdS",
+          "name": "Mr Magaya George-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrMagayaGeorgePage001Jpg.jpeg"
+        },
+        {
+          "id": "u6012dxhb",
+          "name": "Mr Betera Lynn Nyasha-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrBeteraLynnNyashaPage001Jpg.jpeg"
+        },
+        {
+          "id": "Pc0rw0k--",
+          "name": "Ms Ezuka Ndidi Ashira-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msEzukaNdidiAshiraPage001Jpg.jpeg"
+        },
+        {
+          "id": "qt0i3rAZ7",
+          "name": "Mr Kehinde Noah Olugbemiga-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrKehindeNoahOlugbemigaPage001Jpg.jpeg"
+        },
+        {
+          "id": "BNPS8-HTm",
+          "name": "Mr Rashid Parambath-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrRashidParambathPage001Jpg.jpeg"
+        },
+        {
+          "id": "IGWn1D0RP",
+          "name": "Mr Ahammed Shareef Chithari Barikkad-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrAhammedShareefChithariBarikkadPage001Jpg.jpeg"
+        },
+        {
+          "id": "e99EQX4TW",
+          "name": "Mr Viyattil Abdulla Abdul Rahiman-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrViyattilAbdullaAbdulRahimanPage001Jpg.jpeg"
+        },
+        {
+          "id": "yNJ9CquZ0",
+          "name": "Ms Sameera Asharaf-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/msSameeraAsharafPage001Jpg.jpeg"
+        },
+        {
+          "id": "w_ZNWBCtv",
+          "name": "MrNoushadKuniyil-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/mrNoushadKuniyilPage001Jpg.jpeg"
+        },
+        {
+          "id": "7U3NI_9-Q",
+          "name": "497092 Ms Jenkins Sandra Louise-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497092MsJenkinsSandraLouisePage001Jpg.jpeg"
+        },
+        {
+          "id": "ypiUBi2Pf",
+          "name": "497093 Mr Jackson Keith Arnold-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497093MrJacksonKeithArnoldPage001Jpg.jpeg"
+        },
+        {
+          "id": "q_ksqbUlG",
+          "name": "497094 Ms MC Knight Terry Lynn-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497094MsMcKnightTerryLynnPage001Jpg.jpeg"
+        },
+        {
+          "id": "wnK_O0Lan",
+          "name": "497095 Warner Victoria Jackson-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497095WarnerVictoriaJacksonPage001Jpg.jpeg"
+        },
+        {
+          "id": "1iunSKZhl",
+          "name": "497097 Ms Robertson Bettie M-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497097MsRobertsonBettieMPage001Jpg.jpeg"
+        },
+        {
+          "id": "QxWwV4keQ",
+          "name": "497096 Mr Lazar James Bobby-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497096MrLazarJamesBobbyPage001Jpg.jpeg"
+        },
+        {
+          "id": "_gLXhNeIn",
+          "name": "497098 Mr MC Knight Alan Bruce-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497098MrMcKnightAlanBrucePage001Jpg.jpeg"
+        },
+        {
+          "id": "nIEyDSJ1Z",
+          "name": "497099 Mr Tomlinson JR Romeo Anthony-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497099MrTomlinsonJrRomeoAnthonyPage001Jpg.jpeg"
+        },
+        {
+          "id": "sxFmwvSkF",
+          "name": "497100 Ms TOMLINSON LAURA MELISSA-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497100MsTomlinsonLauraMelissaPage001Jpg.jpeg"
+        },
+        {
+          "id": "Vr-lQSxA8",
+          "name": "497101 Ms Smith Alesia Fawn-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497101MsSmithAlesiaFawnPage001Jpg.jpeg"
+        },
+        {
+          "id": "bhxB7r4dB",
+          "name": "497102 Ms Ball Tawana Lynn-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497102MsBallTawanaLynnPage001Jpg.jpeg"
+        },
+        {
+          "id": "yTDx7cRXW",
+          "name": "497103 Ms Rutledge Anita Jo King-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497103MsRutledgeAnitaJoKingPage001Jpg.jpeg"
+        },
+        {
+          "id": "h1r5klbFc",
+          "name": "497104 Mr Smith Reginald-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497104MrSmithReginaldPage001Jpg.jpeg"
+        },
+        {
+          "id": "lsJX-wVJt",
+          "name": "497128 Ms. Lewis Dominique Rochelle-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497128MsLewisDominiqueRochellePage001Jpg.jpeg"
+        },
+        {
+          "id": "0eY5offgE",
+          "name": "497129 Ms. Nassey Chikara Une-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497129MsNasseyChikaraUnePage001Jpg.jpeg"
+        },
+        {
+          "id": "TwRNyjwf_",
+          "name": "497134 Simkievich Alejandro-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497134SimkievichAlejandroPage001Jpg.jpeg"
+        },
+        {
+          "id": "GqlvJVlSQ",
+          "name": "497135 Mr TOMAS SIMKIEVICH-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497135MrTomasSimkievichPage001Jpg.jpeg"
+        },
+        {
+          "id": "PKj8J568w",
+          "name": "497135 Mr TOMAS SIMKIEVICH-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497135MrTomasSimkievichPage0011Jpg.jpeg"
+        },
+        {
+          "id": "eK3e16gge",
+          "name": "497136 Ms Beatriz Da Silva-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497136MsBeatrizDaSilvaPage001Jpg.jpeg"
+        },
+        {
+          "id": "9052NOOy5",
+          "name": "497137 Ms Amalia-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497137MsAmaliaPage001Jpg.jpeg"
+        },
+        {
+          "id": "7Msn0KOBJ",
+          "name": "497137 Ms Amalia-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497137MsAmaliaPage0011Jpg.jpeg"
+        },
+        {
+          "id": "SZEX3f39I",
+          "name": "497141 Mr. Muhammad Rashid Manjaladuparambil-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497141MrMuhammadRashidManjaladuparambilPage001Jpg.jpeg"
+        },
+        {
+          "id": "YLcH6Jz49",
+          "name": "497141 Mr. Muhammad Rashid (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497141MrMuhammadRashid1Page001Jpg.jpeg"
+        },
+        {
+          "id": "91kGzu1r9",
+          "name": "497164 Simkievich Alejandro-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497164SimkievichAlejandroPage001Jpg.jpeg"
+        },
+        {
+          "id": "wBs0o3vr-",
+          "name": "497165 Mr TOMAS SIMKIEVICH-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497165MrTomasSimkievichPage001Jpg.jpeg"
+        },
+        {
+          "id": "fbTewOcXP",
+          "name": "497166 Ms Beatriz Da Silva-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497166MsBeatrizDaSilvaPage001Jpg.jpeg"
+        },
+        {
+          "id": "7F27FV2Z2",
+          "name": "497167 Ms Amalia-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497167MsAmaliaPage001Jpg.jpeg"
+        },
+        {
+          "id": "0AqW17lBm",
+          "name": "497168 Mr Fred Salvatory Namwandu (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497168MrFredSalvatoryNamwandu1Page001Jpg.jpeg"
+        },
+        {
+          "id": "mgZTA-LDw",
+          "name": "497169 Ms Neema Shabani Kilango (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497169MsNeemaShabaniKilango1Page001Jpg.jpeg"
+        },
+        {
+          "id": "ePJyos1fl",
+          "name": "497170 Mr. James Jubilate Mushi-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497170MrJamesJubilateMushiPage001Jpg.jpeg"
+        },
+        {
+          "id": "kplysJ6Hk",
+          "name": "497170 Mr. James Jubilate Mushi (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497170MrJamesJubilateMushi1Page001Jpg.jpeg"
+        },
+        {
+          "id": "LrO_ejcR3",
+          "name": "497168 Mr Fred Salvatory Namwandu-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497168MrFredSalvatoryNamwanduPage001Jpg.jpeg"
+        },
+        {
+          "id": "suo96Xg27",
+          "name": "497169 Ms Neema Shabani Kilango-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497169MsNeemaShabaniKilangoPage001Jpg.jpeg"
+        },
+        {
+          "id": "p1InSJvOD",
+          "name": "497170 Mr. James Jubilate Mushi-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/_497170MrJamesJubilateMushiPage001Jpg2.jpeg"
+        },
+        {
+          "id": "JhBWIHUxK",
+          "name": "497167 Ms Amalia-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497167MsAmaliaPage0011Jpg.jpeg"
+        },
+        {
+          "id": "rkhhRDXPc",
+          "name": "497187MrShihabudheen-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497187MrShihabudheenPage001Jpg.jpeg"
+        },
+        {
+          "id": "NVmS78ffi",
+          "name": "497861 Ms. Deriona La Shatay-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497861MsDerionaLaShatayPage001Jpg.jpeg"
+        },
+        {
+          "id": "KXtXzYD9W",
+          "name": "497862 Ms. Devaunshia Marquise-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497862MsDevaunshiaMarquisePage001Jpg.jpeg"
+        },
+        {
+          "id": "xbXd4S1mZ",
+          "name": "Jaseemnmc-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/jaseemnmcPage001Jpg.jpeg"
+        },
+        {
+          "id": "2sQXjPIjV",
+          "name": "Jaseemnmc-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/jaseemnmcPage0011Jpg.jpeg"
+        },
+        {
+          "id": "jbFKvJhwI",
+          "name": "497861 Ms. Deriona La Shatay-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497861MsDerionaLaShatayPage0011Jpg.jpeg"
+        },
+        {
+          "id": "SzfOIke9W",
+          "name": "497867-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497867Page001Jpg.jpeg"
+        },
+        {
+          "id": "ZjNxw5Wz1",
+          "name": "497868-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497868Page001Jpg.jpeg"
+        },
+        {
+          "id": "e3biW-6Kk",
+          "name": "AZHARNELLIANTAVIDA-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/azharnelliantavidaPage001Jpg.jpeg"
+        },
+        {
+          "id": "qWgJqD-Pg",
+          "name": "497197 (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4971971Page001Jpg.jpeg"
+        },
+        {
+          "id": "KR4keyK4O",
+          "name": "497198 (1) (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_49719811Page001Jpg.jpeg"
+        },
+        {
+          "id": "1KuTbe5R5",
+          "name": "497197 (1)-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/_4971971Page001Jpg2.jpeg"
+        },
+        {
+          "id": "IbToc9TY2",
+          "name": "497198-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497198Page001Jpg.jpeg"
+        },
+        {
+          "id": "5PY5cYOg7",
+          "name": "497865-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497865Page001Jpg.jpeg"
+        },
+        {
+          "id": "mWv-YoZUs",
+          "name": "497866-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497866Page001Jpg.jpeg"
+        },
+        {
+          "id": "GyjTyNgzp",
+          "name": "497867 (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4978671Page001Jpg.jpeg"
+        },
+        {
+          "id": "Wzv0-dEpb",
+          "name": "497868 (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4978681Page001Jpg.jpeg"
+        },
+        {
+          "id": "V7oGQT9Ef",
+          "name": "497871-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497871Page001Jpg.jpeg"
+        },
+        {
+          "id": "uWjev0_Nj",
+          "name": "497872-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497872Page001Jpg.jpeg"
+        },
+        {
+          "id": "h4SGtHfhc",
+          "name": "497873-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497873Page001Jpg.jpeg"
+        },
+        {
+          "id": "uFoVTkthE",
+          "name": "497874-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497874Page001Jpg.jpeg"
+        },
+        {
+          "id": "qd6bJffM2",
+          "name": "497875-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497875Page001Jpg.jpeg"
+        },
+        {
+          "id": "c4Xm4xqQH",
+          "name": "497877-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497877Page001Jpg.jpeg"
+        },
+        {
+          "id": "Oax5rAYHK",
+          "name": "497880-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497880Page001Jpg.jpeg"
+        },
+        {
+          "id": "QT9eamqdV",
+          "name": "497882-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497882Page001Jpg.jpeg"
+        },
+        {
+          "id": "slDTy_2aX",
+          "name": "497883-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497883Page001Jpg.jpeg"
+        },
+        {
+          "id": "3G5qA20DX",
+          "name": "497884-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497884Page001Jpg.jpeg"
+        },
+        {
+          "id": "ciKoZDie0",
+          "name": "497885-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497885Page001Jpg.jpeg"
+        },
+        {
+          "id": "YAYGq1iGU",
+          "name": "497882-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497882Page0011Jpg.jpeg"
+        },
+        {
+          "id": "bBq2l4VI2",
+          "name": "497894-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497894Page001Jpg.jpeg"
+        },
+        {
+          "id": "bfAWmTDcE",
+          "name": "497895-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497895Page001Jpg.jpeg"
+        },
+        {
+          "id": "ktZCJ4--t",
+          "name": "497915-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497915Page001Jpg.jpeg"
+        },
+        {
+          "id": "_ycfXVwLY",
+          "name": "497917-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497917Page001Jpg.jpeg"
+        },
+        {
+          "id": "h-958kQau",
+          "name": "497923-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497923Page001Jpg.jpeg"
+        },
+        {
+          "id": "i744M93Vy",
+          "name": "497924-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497924Page001Jpg.jpeg"
+        },
+        {
+          "id": "AKKg5-Dbl",
+          "name": "497918-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497918Page001Jpg.jpeg"
+        },
+        {
+          "id": "AdJUcZHPy",
+          "name": "497919-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497919Page001Jpg.jpeg"
+        },
+        {
+          "id": "fXYUqj9rQ",
+          "name": "497921-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497921Page001Jpg.jpeg"
+        },
+        {
+          "id": "CvqhUOvq7",
+          "name": "497922-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497922Page001Jpg.jpeg"
+        },
+        {
+          "id": "0T5cZ6ujO",
+          "name": "497920-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497920Page001Jpg.jpeg"
+        },
+        {
+          "id": "zV24aNHyE",
+          "name": "497922-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497922Page0011Jpg.jpeg"
+        },
+        {
+          "id": "O7T4mX5ND",
+          "name": "497931-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497931Page001Jpg.jpeg"
+        },
+        {
+          "id": "pljbz3YYK",
+          "name": "497936-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497936Page001Jpg.jpeg"
+        },
+        {
+          "id": "Nx_UkZCSQ",
+          "name": "497936-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_497936Page0011Jpg.jpeg"
+        },
+        {
+          "id": "b2FMjCAZ3",
+          "name": "497937 (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4979371Page001Jpg.jpeg"
+        },
+        {
+          "id": "r8N97X_KW",
+          "name": "497937-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_497937Page001Jpg.jpeg"
+        },
+        {
+          "id": "i2XzNhMks",
+          "name": "497922-2-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4979222Page001Jpg.jpeg"
+        },
+        {
+          "id": "oMwY0_c-W",
+          "name": "497931 (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4979311Page001Jpg.jpeg"
+        },
+        {
+          "id": "PT2Q0utwN",
+          "name": "498122-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498122Page001Jpg.jpeg"
+        },
+        {
+          "id": "RCNRwDeUo",
+          "name": "498123-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498123Page001Jpg.jpeg"
+        },
+        {
+          "id": "siPI5bGsE",
+          "name": "498124-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498124Page001Jpg.jpeg"
+        },
+        {
+          "id": "Muzs2cvw5",
+          "name": "498123-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_498123Page0011Jpg.jpeg"
+        },
+        {
+          "id": "4R6sFlIzB",
+          "name": "498124-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_498124Page0011Jpg.jpeg"
+        },
+        {
+          "id": "uWWqbn3j_",
+          "name": "498132-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498132Page001Jpg.jpeg"
+        },
+        {
+          "id": "faoQIWryF",
+          "name": "498133-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_498133Page0011Jpg.jpeg"
+        },
+        {
+          "id": "AOcmlcxsr",
+          "name": "498137-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498137Page001Jpg.jpeg"
+        },
+        {
+          "id": "A7_3dY6zb",
+          "name": "498136-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498136Page001Jpg.jpeg"
+        },
+        {
+          "id": "aL5m8IC_k",
+          "name": "498137-page-001 (1).jpg",
+          "filePath": "../public/plasmic/wanga/images/_498137Page0011Jpg.jpeg"
+        },
+        {
+          "id": "cjy5HxxCd",
+          "name": "IMG-20211113-WA0016.jpg",
+          "filePath": "../public/plasmic/wanga/images/img20211113Wa0016Jpg.jpeg"
+        },
+        {
+          "id": "bWXfVVkEg",
+          "name": "498143-1-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_4981431Page001Jpg.jpeg"
+        },
+        {
+          "id": "clX8kFUfW",
+          "name": "498722 (1) (1)-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_49872211Page001Jpg.jpeg"
+        },
+        {
+          "id": "S1YkdhU82",
+          "name": "498143-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498143Page001Jpg.jpeg"
+        },
+        {
+          "id": "r6bszvqCK",
+          "name": "498143-page-001.jpg 2",
+          "filePath": "../public/plasmic/wanga/images/_498143Page001Jpg2.jpeg"
+        },
+        {
+          "id": "hpb2UCGgw",
+          "name": "498144-page-001.jpg",
+          "filePath": "../public/plasmic/wanga/images/_498144Page001Jpg.jpeg"
+        }
+      ],
+      "indirect": false,
+      "codeComponents": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": []
+  },
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.166",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.166/dist/plasmic.schema.json"
+}
